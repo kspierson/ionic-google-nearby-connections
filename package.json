@@ -1,0 +1,19 @@
+{
+  "name": "ionic-google-nearby-connections",
+  "version": "0.1.0",
+  "description": "Ionic wrapper for Cordova Google Nearby Connections plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kspierson/ionic-google-nearby-connections.git"
+  },
+  "author": "Ken Pierson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kspierson/ionic-google-nearby-connections/issues"
+  },
+  "homepage": "https://github.com/kspierson/ionic-google-nearby-connections#readme"
+}
